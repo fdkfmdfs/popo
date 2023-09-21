@@ -1,0 +1,19 @@
+.pt-img{
+    padding-bottom: 5.6%; 
+    height: 100%;
+    margin: 0 auto;
+    margin: 5%;
+}
+.pt-img2{
+    padding-bottom: 6%; 
+    height: 100%;
+    margin: 0 auto;
+    margin: 9%;
+}
+.pt-img3{
+    padding-bottom: 6%; 
+    height: 100%;
+    margin: 0 auto;
+    margin: 9%;
+}
+.stack{float: left; width: 33%; align-items: start;}
